@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ComputerSleek/EmployeeMS/issues"
   },
-  "homepage": "https://github.com/ComputerSleek/EmployeeMS#readme"
+  "homepage": "https://github.com/ComputerSleek/EmployeeMS#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
 }
