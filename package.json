@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/ComputerSleek/EmployeeMS#readme",
   "dependencies": {
-    "mysql": "^2.18.1"
+    "express": "^4.17.1",
+    "inquirer": "^8.0.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5"
   }
 }
